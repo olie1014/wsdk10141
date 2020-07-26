@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+html {
+    background-color: #333333;
+    font-family: 'Fugaz One', cursive;
+}
+
+#name {
+    text-align: center;
+    color: palegreen;
+    border-bottom: palegreen solid 3px;
+}
+
+#game {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#description{
+    font-size: 30px;
+    color: palegreen;
+}
+
+#result {
+    font-size: 30px;
+    color: palegreen;
+}
+
+#input{
+    font-size: 20px;
+    margin: 1%;
+    border-radius: 10px;
+}
+
+#check {
+    background-color: palegreen;
+    padding: 5px 25px;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+
+#footer {
+    text-align: center;
+    font-size: 30px;
+    color: palegreen;
+    margin-top: 100px;
+    border-top: palegreen solid 5px;
+}
